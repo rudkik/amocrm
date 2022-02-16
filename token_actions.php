@@ -2,7 +2,7 @@
 
 use League\OAuth2\Client\Token\AccessToken;
 
-define('TOKEN_FILE', DIRECTORY_SEPARATOR . 'public_html/tmp' . DIRECTORY_SEPARATOR . 'token_info.json');
+define('TOKEN_FILE', '/storage/ssd3/636/18465636/public_html/tmp' . DIRECTORY_SEPARATOR . 'token_info.json');
 
 /**
  * @param array $accessToken
